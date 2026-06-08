@@ -1,1 +1,9 @@
-
+[
+        {
+            "Code": "shluha",
+            "Loot": "lucky_coin",
+            "Count": 20,
+            "AssetId": "lucky_coin",
+            "LocaId": "BonusCode_Martiinq",
+            "AlreadyUsed": false
+        } ]
